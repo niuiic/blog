@@ -50,7 +50,7 @@ export default {
     //   }
     // ],
     footer: {
-      copyright: 'Copyright ©2022 niuiic. All Rights Reserved.'
+      copyright: 'Copyright © 2022-present niuiic. All Rights Reserved.'
     }
   }
 }
