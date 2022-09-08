@@ -25,7 +25,7 @@ export default {
       // },
       { text: 'Articles', link: '/articles/index' }
     ],
-    socialLinks: [{ icon: 'github', link: 'https://github.com/niuiic' }]
+    socialLinks: [{ icon: 'github', link: 'https://github.com/niuiic' }],
     // sidebar: [
     //   {
     //     text: '组件库源码实现',
@@ -48,6 +48,9 @@ export default {
     //       }
     //     ]
     //   }
-    // ]
+    // ],
+    footer: {
+      copyright: 'Copyright ©2022 niuiic. All Rights Reserved.'
+    }
   }
 }
