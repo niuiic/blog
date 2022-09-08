@@ -23,7 +23,8 @@ export default {
       //     }
       //   ]
       // },
-      { text: 'Articles', link: '/articles/index' }
+      { text: 'Articles', link: '/articles/index' },
+      { text: 'Demos', link: 'https://github.com/niuiic/blog/tree/main/demos' }
     ],
     socialLinks: [{ icon: 'github', link: 'https://github.com/niuiic' }],
     // sidebar: [
@@ -51,6 +52,7 @@ export default {
     // ],
     footer: {
       copyright: 'Copyright © 2022-present niuiic. All Rights Reserved.'
-    }
+    },
+    lastUpdatedText: 'Updated Date'
   }
 }
